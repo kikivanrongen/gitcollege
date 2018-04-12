@@ -1,6 +1,6 @@
 import random
 
-NAMES = ["Stephen", "Daan", "Kees", "Kiki"]
+NAMES = ["Stephen", "Daan", "Kees", "Kiki", "Lisa"]
 
 def get_name():
     return random.choice(NAMES)
